@@ -16,3 +16,5 @@ _Table 4 Comparison with the SOTA researches._ <br>
 
 ![img](https://user-images.githubusercontent.com/90194261/195532931-0a0476c5-2c71-4f3b-b603-19ce53bbf552.png)
 _Fig1 Visualizing chicken gender identification._ <br>
+
+#### I would like to thank the owner of Hangzhou Zhushi Agricultural Development Co., Ltd. for his site support and assistance in data annotation. 
